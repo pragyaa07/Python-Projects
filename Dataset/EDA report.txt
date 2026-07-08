@@ -1,0 +1,12 @@
+1. OVERVIEW
+    - Dataset contains 891 rows and 12 columns
+    - Missing values handles for 'Age' (filled with median) and 'Embarked' (filled with mode)
+
+2. KEY INSIGHTS
+    - Survival rates are highest for first class pasengers (62%) and lowest for third class (24%)
+    - Majority of pasengers are aged between 20-40 years
+    - There is a positive correlation between fare and survival rates
+
+3. VISUAL INSIGHTS
+    - Attached images in the folder
+    
